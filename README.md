@@ -3,4 +3,4 @@
 ## Phonebook backend Part3
 
 App link:
-https://phonebook-backend-fso-idgy.onrender.com
+https://fullstackopen-2024-ajcl.onrender.com
